@@ -63,4 +63,4 @@ I connect **hardware and software into one proper system**, across many industri
 > [!IMPORTANT]
 > **Proprietary / Commercial / Source-Available Licensing**
 >
-> To get a license and use my projects, contact — **jr.sadiklaskar7@gmail.com**
+> To get a license and use my projects, contact — **sadiklaskar.dev@gmail.com**
